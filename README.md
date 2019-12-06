@@ -1,3 +1,3 @@
 # Data-Analytics-Work-Samples
 
-![preview](https://imgur.com/CYkUg0l)
+![preview](https://i.imgur.com/CYkUg0l.png)
